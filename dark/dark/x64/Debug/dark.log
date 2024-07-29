@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Theod\source\repos\dark\dark\main.c(46,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  dark.vcxproj -> C:\Users\Theod\source\repos\dark\dark\x64\Debug\dark.exe
